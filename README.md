@@ -6,7 +6,7 @@ Computer Engineering student at Instituto Mauá de Tecnologia | Backend Develope
 - 🎓 Studying Computer Engineering (graduation: 2028)
 - 💻 Focused on backend development with Java
 - 📊 Experience with data analysis using Pandas and Tableau
-- 🌎 Fluent in English
+- 🌎 Advanced in English
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
